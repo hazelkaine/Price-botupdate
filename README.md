@@ -1,1 +1,3 @@
 # Price-botupdate
+
+crypto price bot currtity of dapp, but updated to actally work...
